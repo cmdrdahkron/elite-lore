@@ -2,10 +2,10 @@
 
 * [README](README.md)
 * [World War 3](earth.md)
-* The Thargoids
-* The Federation
-* The Empire
-* The Alliance
+* [The Thargoids](the-thargoids.md)
+* [The Federation](the-federation.md)
+* [The Empire](the-empire.md)
+* [The Alliance](the-alliance.md)
 * [The Return](the-thargoids.md)
 * References
 
