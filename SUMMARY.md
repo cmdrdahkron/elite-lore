@@ -1,6 +1,7 @@
 # Summary
 
 * [README](README.md)
+* [Methodology](README.md#methodology)
 * [World War 3](world-war-three.md)
 * [The Federation](the-federation.md)
 * [The Empire](the-empire.md)
