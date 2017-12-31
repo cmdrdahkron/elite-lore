@@ -7,5 +7,5 @@
 * The Empire
 * The Alliance
 * [The Return](the-thargoids.md)
-* [References](timeline.md)
+* References
 
