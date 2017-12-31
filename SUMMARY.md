@@ -1,7 +1,7 @@
 # Summary
 
 * [README](README.md)
-* [Timeline](timeline.md)
+* [References](timeline.md)
 * [World War 3](earth.md)
 * The Thargoids
 * The Federation
