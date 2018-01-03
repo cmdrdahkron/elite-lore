@@ -4,7 +4,7 @@ The various reference materials used in one way or another in the compilation of
 
 ## Books
 
-* [Elite: Legacy](https://www.amazon.co.uk/dp/B00VKI5R40/_encoding=UTF8?coliid=IXT7ETQL6G0Q9&colid=3TEZ11652XMTC&psc=0)
+* [Legacy](https://www.amazon.co.uk/dp/B00VKI5R40/_encoding=UTF8?coliid=IXT7ETQL6G0Q9&colid=3TEZ11652XMTC&psc=0)
 * [Nemorensis](https://www.amazon.co.uk/dp/1473201268/_encoding=UTF8?coliid=I33UWUCBC8IPIC&colid=3TEZ11652XMTC&psc=0)
 * [Wanted](https://www.amazon.co.uk/dp/1473201284/_encoding=UTF8?coliid=I2P1HJCHZY5E8Q&colid=3TEZ11652XMTC&psc=0)
 * [And Here The Wheel](https://www.amazon.co.uk/dp/1522895302/_encoding=UTF8?coliid=I2XA04MPLWAKJU&colid=3TEZ11652XMTC&psc=0)
