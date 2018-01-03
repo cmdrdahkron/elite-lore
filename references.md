@@ -14,6 +14,7 @@ The various reference materials used in one way or another in the compilation of
 * [Docking is Difficult](https://www.amazon.co.uk/dp/1473201306/_encoding=UTF8?coliid=IIB6GF18QE2PI&colid=3TEZ11652XMTC&psc=0)
 * [Premonition](https://www.amazon.co.uk/dp/0993139671/_encoding=UTF8?coliid=I3HY0ON2UEM2F3&colid=3TEZ11652XMTC&psc=0)
 * [Reclamation](https://www.amazon.co.uk/dp/1522819010/_encoding=UTF8?coliid=I18XOOVLK8GTNN&colid=3TEZ11652XMTC&psc=0)
+* [Lave Revolution](https://www.amazon.co.uk/Elite-Revolution-Allen-James-Stroud/dp/1910987131/ref=sr_1_1?ie=UTF8&qid=1514962048&sr=8-1&keywords=lave+revolution)
 
 ## Games
 
